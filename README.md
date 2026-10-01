@@ -51,7 +51,7 @@ docs/decisions/      # decisões técnicas
 
 Ainda não há comandos de execução da aplicação. Eles serão adicionados e verificados nas entregas de ambiente e pipeline. Não é necessário instalar toda a stack nesta etapa.
 
-Comece pelo [backlog](docs/backlog.md), atividade 01. O [guia de trabalho](CONTRIBUTING.md) explica como concluir uma tarefa e registrar evidências.
+Comece pela [atividade 01](https://github.com/yScroww/Fuel-Scope/issues/1), disponível em Ready no [Kanban do MVP](https://github.com/users/yScroww/projects/1). O [backlog](docs/backlog.md) lista a ordem e as dependências. O [guia de trabalho](CONTRIBUTING.md) explica como concluir uma tarefa e registrar evidências.
 
 ## Evolução
 
