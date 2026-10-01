@@ -1,0 +1,28 @@
+name: Atividade
+description: Uma entrega pequena com resultado verificável
+title: "[MVP] "
+body:
+  - type: textarea
+    id: objective
+    attributes:
+      label: Objetivo
+      description: Qual resultado esta atividade entrega?
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Passos
+      description: Liste passos pequenos e dependências.
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: Critérios de aceite
+      description: Use checkboxes para critérios verificáveis.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Evidências
+      description: Resultados, testes, comandos ou capturas, sem segredos.
